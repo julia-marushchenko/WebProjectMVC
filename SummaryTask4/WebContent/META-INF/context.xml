@@ -1,0 +1,9 @@
+<Context>
+
+  <Resource name="jdbc/Summary_Task4_db" auth="Container" type="javax.sql.DataSource"
+               maxActive="50" maxIdle="30" maxWait="10000"
+               username="root" password="toor"
+               driverClassName="com.mysql.jdbc.Driver"
+               defaultAutoCommit="false"
+               url="jdbc:mysql://localhost:3306/Summary_Task4_db"/>
+</Context>
