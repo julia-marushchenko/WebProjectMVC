@@ -51,9 +51,7 @@ after you submit current form.
 					<input type="submit" value=<fmt:message key="login.label.submit" />><br>
 					
 				</form>
-				<%--=========================================================================== 
-Type link to registration 
-===========================================================================--%>
+				
 					<a href="controller?command=registration"> <fmt:message
 							key="login.link.registration" />
 					</a>
@@ -63,4 +61,5 @@ Type link to registration
 
 
 </body>
+	<%--</p> Julia Maruschenko <p>--%>
 </html>
